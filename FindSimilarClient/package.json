@@ -16,7 +16,7 @@
     "bootstrap-multiselect": "^0.9.15",
     "clipboard": "^2.0.6",
     "jquery": "^3.5.1",
-    "jquery-validation": "^1.19.2",
+    "jquery-validation": "^1.19.3",
     "jquery-validation-unobtrusive": "^3.2.11",
     "popper.js": "^1.16.1",
     "jsdom": "^16.4.0",
